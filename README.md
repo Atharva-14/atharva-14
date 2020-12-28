@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm Atharva Muratkar
 
-<!--
-**Atharva-14/atharva-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in Third Year studying Computer Science and Engineering. I have keen interest in Android Development.
 
-Here are some ideas to get you started:
+#### What I'm up to?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Android-black.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/Kotlin-blue.svg?style=for-the-badge)
+
+-  🎓 I’m looking for **Internship**
+
+- 👨🏻‍🔧 I love to learn and work on different projects.
+
+### 👷‍♂️ Recent Project
+
+- [Tinder Clone 🔥](https://github.com/Atharva-14/tinder-clone)
+
+### Let's Connect 😀
+
+Feel free to have productive talk or just a friendly Hi 👋
+
+[![Generic badge](https://img.shields.io/badge/Linkedin-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/Atharva-Muratkar/)
+[![Generic badge](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge)](https://twitter.com/Atharva9422?s=09)
+
+
+
+
+
