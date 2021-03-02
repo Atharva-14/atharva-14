@@ -17,6 +17,7 @@ I am currently in Third Year studying Computer Science and Engineering. I have k
 - [Tinder Clone 🔥](https://github.com/Atharva-14/tinder-clone)
 - [Cash Register💴](https://github.com/Atharva-14/cash-register)
 - [Currency Converter💵](https://github.com/Atharva-14/currency-converter)
+- [BMI_Calculator⚖](https://github.com/Atharva-14/BMI_Calculator)
 
 ### Let's Connect 😀
 
