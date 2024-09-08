@@ -7,17 +7,11 @@ I am currently in Third Year studying Computer Science and Engineering. I have k
 
 - ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Next.js-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React.js-cyan.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/CSS3-purple.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge)
 
-
--  🎓 I’m looking for **Internship**
-
 - 👨🏻‍🔧 I love to learn and work on different projects.
 
 ### 👷‍♂️ Recent Project
 
-- [Tinder Clone 🔥](https://github.com/Atharva-14/tinder-clone)
-- [Cash Register💴](https://github.com/Atharva-14/cash-register)
-- [Currency Converter💵](https://github.com/Atharva-14/currency-converter)
-- [BMI_Calculator⚖](https://github.com/Atharva-14/BMI_Calculator)
+- [E-Commerce Website(ebookheaven)](https://github.com/Atharva-14/ecommerce-site)
 
 ### Let's Connect 😀
 
