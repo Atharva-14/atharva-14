@@ -1,17 +1,23 @@
 ### Hi there 👋 I'm Atharva Muratkar
 
-I am currently in Third Year studying Computer Science and Engineering. I have keen interest in Android Development.
+I'm a passionate Full-Stack Developer with experience in building dynamic and scalable web applications. I have a strong background in both frontend and backend technologies, including React.js, Next.js, Node.js, JavaScript, HTML, CSS, and MongoDB.
+
+
 
 #### What I'm up to?
 
+🌱 I’m currently expanding my skills in modern tech stacks and diving deeper into creating intuitive user interfaces and efficient backend solutions.
 
-- ☘️ I’m currently learning ![Generic badge](https://img.shields.io/badge/Next.js-blue.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/React.js-cyan.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/CSS3-purple.svg?style=for-the-badge)![Generic badge](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge)
+💼 I've worked on diverse projects, including an eCommerce platform called EbookHeaven and a portfolio website for an architecture firm named ArchInterio Design Studio.
 
-- 👨🏻‍🔧 I love to learn and work on different projects.
+🚀 My goal is to build applications that deliver seamless user experiences and solve real-world problems.
+
+📫 Feel free to reach out or check out my repositories to see some of my work. Let's connect and collaborate!
 
 ### 👷‍♂️ Recent Project
 
 - [E-Commerce Website(ebookheaven)](https://github.com/Atharva-14/ecommerce-site)
+- [ArchInterio Design Studio](https://github.com/Atharva-14/archinterio-design-studio)
 
 ### Let's Connect 😀
 
