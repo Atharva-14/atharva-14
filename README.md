@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer with experience in building dynamic and sc
 
 ### 👷‍♂️ Recent Project
 
-- [E-Commerce Website(ebookheaven)](https://github.com/Atharva-14/ecommerce-site)
+- [E-Commerce Website (ebookheaven)](https://github.com/Atharva-14/ecommerce-site)
 - [ArchInterio Design Studio](https://github.com/Atharva-14/archinterio-design-studio)
 
 ### Let's Connect 😀
