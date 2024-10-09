@@ -6,13 +6,10 @@ I'm a passionate Full-Stack Developer with experience in building dynamic and sc
 
 #### What I'm up to?
 
-🌱 I’m currently expanding my skills in modern tech stacks and diving deeper into creating intuitive user interfaces and efficient backend solutions.
-
-💼 I've worked on diverse projects, including an eCommerce platform called EbookHeaven and a portfolio website for an architecture firm named ArchInterio Design Studio.
-
-🚀 My goal is to build applications that deliver seamless user experiences and solve real-world problems.
-
-📫 Feel free to reach out or check out my repositories to see some of my work. Let's connect and collaborate!
+- 🌱 I’m currently expanding my skills in modern tech stacks and diving deeper into creating intuitive user interfaces and efficient backend solutions.
+- 💼 I've worked on diverse projects, including an eCommerce platform called EbookHeaven and a portfolio website for an architecture firm named ArchInterio Design Studio.
+- 🚀 My goal is to build applications that deliver seamless user experiences and solve real-world problems.
+- 📫 Feel free to reach out or check out my repositories to see some of my work. Let's connect and collaborate!
 
 ### 👷‍♂️ Recent Project
 
